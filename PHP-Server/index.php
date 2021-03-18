@@ -1,5 +1,5 @@
 ﻿<?php
-echo "/*
+/*
 
     Mantle Of Saturn - Remote Administration Tool Based on PHP Server and Python Client
     Copyright (C) 2021  Nikolaos Bazigos
@@ -20,8 +20,7 @@ echo "/*
     Official Websites : mantleofsaturn.com , sourcecode347.com
     GitHub : https://github.com/sourcecode347/MantleOfSaturn
     
-    */
-";    
+*/   
 include("md5password.php"); 
 include_once("timezones.php");
 header("Content-Type: text/html; charset=utf-8");
