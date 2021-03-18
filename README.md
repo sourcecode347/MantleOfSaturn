@@ -7,7 +7,7 @@ I Build a Realistic Graphical Design for PHP Server like a virtual web based os 
 
 Included a Betcalculator application as bonus and example for more application in this PHP Server.
 
-Official Websites : mantleofsaturn.com  , sourcecode347.com
+Official Websites : https://mantleofsaturn.com  , https://sourcecode347.com
 
 ## Installation ##
 Set your sitelink in MantleOfSaturn.py
