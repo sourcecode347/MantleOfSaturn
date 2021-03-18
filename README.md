@@ -11,6 +11,9 @@ Official Websites : mantleofsaturn.com  , sourcecode347.com
 
 ## Installation ##
 Set your sitelink in MantleOfSaturn.py
+
 Upload files from PHP-Server to your Server
+
 Change the password in md5password.php
+
 chmod 777 clients folder
