@@ -12,7 +12,7 @@ Official Websites : mantleofsaturn.com  , sourcecode347.com
 ## Installation ##
 Set your sitelink in MantleOfSaturn.py
 
-Upload files from PHP-Server to your Server
+Upload files from PHP-Server folder to your Server
 
 Change the password in md5password.php
 
