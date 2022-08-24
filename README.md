@@ -18,7 +18,7 @@ Change the password in md5password.php
 
 Run this command to give permissions to clients folder
 
-        sudo chmod 777 clients
+        sudo chmod -R 777 clients
 
 ## Video Example ##
 https://www.youtube.com/watch?v=Iw6gIGBSN3c
