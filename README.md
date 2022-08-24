@@ -16,7 +16,9 @@ Upload files from PHP-Server folder to your Server
 
 Change the password in md5password.php
 
-chmod 777 clients folder
+Run this command to give permissions to clients folder
+
+        sudo chmod 777 clients folder
 
 ## Video Example ##
 https://www.youtube.com/watch?v=Iw6gIGBSN3c
