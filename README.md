@@ -1,7 +1,7 @@
 # MantleOfSaturn
 Mantle Of Saturn is remote administration tool based on PHP Server and Python Client.
 
-This Remote Administration Tool uses POST & READ Method and not require to open ports.
+This Remote Administration Tool uses POST & READ Method and not require to open extra ports or any Socket.
 
 I Build a Realistic Graphical Design for PHP Server like a virtual web based os system.
 
