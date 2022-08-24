@@ -10,7 +10,7 @@ Included a Betcalculator application as bonus and example for more application i
 Official Website : https://sourcecode347.com
 
 ## Installation ##
-Set your sitelink in MantleOfSaturn.py
+Set your sitelink in MantleOfSaturn.py on Line 40
 
 Upload files from PHP-Server folder to your Server
 
